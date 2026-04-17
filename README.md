@@ -1,13 +1,17 @@
-# Bibliography
+# Maryna Viazovska - Bibliografia
 
-## Sources about Maryna Viazovska
+## Referências
 
-1. [Maryna Viazovska - Wikipedia](https://en.wikipedia.org/wiki/Maryna_Viazovska)
-2. [Her work on sphere packing](https://www.scientificamerican.com/article/maryna-viazovska-sphere-packing/)
-3. [Institute for Advanced Study - Maryna Viazovska](https://www.ias.edu/people/faculty/viazovska)
+[11] https://www.nytimes.com/2022/07/05/science/maryna-viazovska-math.html
 
-## Sphere Packing Mathematics
+[12] https://www.newscientist.com/article/2082328-new-maths-proof-shows-how-to-stack-oranges-in-24-dimensions/
 
-1. [Sphere Packing in Dimensions 8 and 24](https://www.maths.ox.ac.uk/publications/can-we-fit-spheres-a-journey-sphere-packing-dimensions-8-and-24)
-2. [The Sphere Packing Problem](https://www.statnews.com/2016/09/01/sphere-packing-problem/)
-3. [Mathematics of Sphere Packing](https://www.ams.org/publications/journals/notices/202106/read.pdf)
+[13] https://www.quantamagazine.org/sphere-packing-solved-in-higher-dimensions-20160330/
+
+[14] https://www.quantamagazine.org/universal-math-solutions-in-dimensions-8-and-24-20190513/
+
+[15] https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/
+
+[16] https://www.youtube.com/watch?v=Uh2gqiEC6eM
+
+[Viazovska.pdf - Técnico Lisboa](https://www.math.tecnico.ulisboa.pt/~oliveiraesilva/attachments/Viazovska.pdf)
